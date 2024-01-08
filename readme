@@ -1,0 +1,26 @@
+# js-pwdgen-wannabe
+
+## traccia
+
+```@here <br>
+Ciao ragazzi,<br>
+esercizio di oggi: (insicurissimo) password generator<br>
+nome repo: `js-pwdgen-wannabe`<br>
+Chiedi all'utente il suo nome,<br>
+poi chiedi il suo cognome,<br>
+poi chiedi il suo colore preferito<br>
+Infine scrivi sulla pagina `nomecognomecolorepreferito23`<br>
+```
+
+## svolgimento
+
+- inizializzo la variabile nome e le assegno il valore inserito dall'utente con il metodo promt()
+- stampo su console il valore della variabile nome
+- inizializzo la variabile cognome e le assegno il valore inserito dall'utente con il metodo promt()
+- stampo su console il valore della variabile cognome
+- inizializzo la variabile colore e le assegno il valore inserito dall'utente con il metodo promt()
+- stampo su console il valore della variabile colore
+- creo l'elemento h1 del documento
+- creo un nodo di testo
+- appendo il nodo di testo all'elemento h1
+- appendo il blocco h1 al body contenuto nel documento 
