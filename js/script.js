@@ -8,7 +8,7 @@ let generatedPwd = userName + userSurname + userColor;
 console.log(generatedPwd);
 
 const mainTitle = document.createElement('h1');
-let text = document.createTextNode(generatedPwd);
+let text = document.createTextNode(`la password generata per te è: ${generatedPwd}`);
 mainTitle.appendChild(text);
 document.body.appendChild(mainTitle);
 
